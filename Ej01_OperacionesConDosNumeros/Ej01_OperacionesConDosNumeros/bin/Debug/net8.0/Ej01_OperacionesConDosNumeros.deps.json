@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ej01_OperacionesConDosNumeros/1.0.0": {
+        "runtime": {
+          "Ej01_OperacionesConDosNumeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej01_OperacionesConDosNumeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
